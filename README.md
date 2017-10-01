@@ -46,6 +46,7 @@ Set up keybinds, link with aliases that I've set up, etc
 Mouse sensitivity settings
 
 **optimizations.cfg**
+
 You shouldn't need to touch this unless a particular setting is giving you troubles
 
 ## License
